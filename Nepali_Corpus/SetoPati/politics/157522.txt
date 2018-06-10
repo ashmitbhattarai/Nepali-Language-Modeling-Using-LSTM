@@ -1,0 +1,9 @@
+काठमाडौं महानगरपालिकाको साँचो भारतीय प्रधानमन्त्री नरेन्द्र मोदीलाई हस्तान्तरण गरिएको छ।
+महानगर प्रमुख विद्यासुन्दर शाक्यले शनिबार राष्ट्रिय सभागृहमा आयोजित नागरिक अभिनन्दनमा काठमाडौं महानगरपालिकाको साँचो हस्तान्तरण गरेको छ।
+प्रधानमन्त्री मोदीका लागि काठमाडौं सधैँ खुला रहने भन्दै साँचो हस्तान्तरण गरिएको हो।
+हेर्नुहोस् LIVE
+(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.0';  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+
+भारतका प्रधानमन्त्री नरेन्द्र मोदीलाई काठमाडौं महानगरपालिकाले गरेको नागरिक अभिनन्दन कार्यक्रम
+Posted by Setopati on Saturday, 12 May 2018
+ 

@@ -1,0 +1,6 @@
+ट्विटरले आफ्ना सबै प्रयोगकर्तालाई पासवर्ड परिवर्तन गर्न भनेको छ । आन्तरिक नेटवर्कमा केही समस्या देखिएकाले ट्विटरले आफ्ना ३३० मिलियन प्रयोगकर्तालाई पासवर्ड परिवर्तन गर्न भनेको हो।
+यद्यपि पासवर्ड चोरी भएको या कुनै दुरुपयोग हुनसक्ने भन्दै  सावधानी अपनाउन पासवर्ड परिवर्तन गर्नुपर्ने ट्विटरले बताएको छ ।
+ट्विटरका कार्यकारी प्रमुख ज्याक डोरसेले ट्विटरमा केही समस्या देखिएको तर दुरूपयोग भएको संकेता फेला नपरेको बताएका छन्।
+We recently discovered a bug where account passwords were being written to an internal log before completing a masking/hashing process. We’ve fixed, see no indication of breach or misuse, and believe it’s important for us to be open about this internal defect. https://t.co/BJezo7Gk00
+— jack (@jack) May 3, 2018
+
